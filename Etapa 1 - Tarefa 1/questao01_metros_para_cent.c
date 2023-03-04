@@ -6,7 +6,7 @@ e em seguida faça a conversão para centímetros, exibindo o resultado. */
 
 int main () {
 	float met;
-	//float ent;
+	//float cent;
 	
 	printf("Digite o valor em metros: ");
 	scanf("%f", &met);
